@@ -15,5 +15,8 @@
     "url": "https://github.com/HaveAGneissDay/tictactoe/issues"
   },
   "homepage": "https://github.com/HaveAGneissDay/tictactoe#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
